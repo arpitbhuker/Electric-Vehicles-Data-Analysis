@@ -20,6 +20,9 @@ This dashboard encapsulates key trends in electric vehicle adoption, fuel types,
 
 ---
 
+## 📸 Dashboard Snapshots
+<img width="1916" height="1018" alt="image" src="https://github.com/user-attachments/assets/0241b2ce-e4ee-484d-9d38-dd4f73618352" />
+
 ## 📌 Objectives
 
 1. Identify the major contributors to EV adoption in terms of manufacturer and region.
